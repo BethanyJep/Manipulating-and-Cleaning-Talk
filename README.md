@@ -17,5 +17,3 @@ Data Scientists spend 80 per cent of any project is to prepare the data into a f
 * Installing libraries:- https://pypi.org/ 
 * Live video link:- https://aka.ms/Cleaning_Data
 
-![image](https://user-images.githubusercontent.com/44121227/115378205-f926a780-a1d8-11eb-846a-568ece38185d.png)
-
