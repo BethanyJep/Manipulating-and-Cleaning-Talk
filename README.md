@@ -15,5 +15,5 @@ Data Scientists spend 80 per cent of any project is to prepare the data into a f
 * Reference Notebook:- http://bit.ly/clean-data-ref 
 * Pandas documentation:-  http://bit.ly/clean-data-doc 
 * Installing libraries:- https://pypi.org/ 
-* Live video link:- https://aka.ms/Cleaning_Data
+* Live video link:- https://www.youtube.com/watch?v=xKIm02254SQ&t=94s
 
